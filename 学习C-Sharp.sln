@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "课程1", "课程1\课程1.csproj", "{56E6C70C-8EE9-4D21-8C70-F90C16F49A14}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "课程-1", "课程-1\课程-1.csproj", "{4BBF857D-CA91-45BB-9998-B151F63ECEB1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{56E6C70C-8EE9-4D21-8C70-F90C16F49A14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{56E6C70C-8EE9-4D21-8C70-F90C16F49A14}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{56E6C70C-8EE9-4D21-8C70-F90C16F49A14}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{56E6C70C-8EE9-4D21-8C70-F90C16F49A14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BBF857D-CA91-45BB-9998-B151F63ECEB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BBF857D-CA91-45BB-9998-B151F63ECEB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BBF857D-CA91-45BB-9998-B151F63ECEB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BBF857D-CA91-45BB-9998-B151F63ECEB1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
